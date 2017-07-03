@@ -1,4 +1,2 @@
 # hello-world
-change for my project
-
-lalalala
+new project for github
